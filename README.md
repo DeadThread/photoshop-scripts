@@ -2,7 +2,7 @@
 
 A collection of Adobe Photoshop automation scripts to generate event posters from a PSD template using folder names as data sources. Ideal for artists, promoters, and designers managing multiple shows or events.
 📂 Scripts Included
-1. basicPosterGenerator.jsx
+1. Date-Venue-City-Combined.jsx
 
 🔹 Date-Venue-City-Combined
 Generates a single Poster.jpg for each subfolder by updating one text layer:
