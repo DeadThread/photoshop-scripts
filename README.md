@@ -88,14 +88,3 @@ Properly structured event folders
 📄 License
 
 MIT License — Free to use and modify.
-📁 Example Directory
-
-photoshop-scripts/
-├── basicPosterGenerator.jsx
-├── advancedPosterGenerator.jsx
-└── README.md
-
-/Shows
-├── Gorillaz - 2025-08-09 - Red Rocks - Morrison (CO)
-│ ├── Poster.jpg
-│ └── Poster.psd ← (only with advanced script)
